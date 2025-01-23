@@ -98,7 +98,7 @@
 
                                             <p class="mt-4 text-sm/relaxed">
                                                 Testing changes Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
-                                                New branch custom-changes
+                                                New branch custom-changes merged resolved
                                             </p>
                                         </div>
                                     </div>
